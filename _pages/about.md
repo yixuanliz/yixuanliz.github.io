@@ -30,6 +30,8 @@ Education
 [2014-2018] [Shandong University](https://en.sdu.edu.cn/) , Shandong, China
 - Bachelor of Economics
 
+
+
 Publications
 ------
 You can also find my papers on <u><a href="https://scholar.google.com/citations?user=BRtf_xIAAAAJ&hl=en">my Google Scholar profile</a>.</u>
@@ -44,6 +46,8 @@ You can also find my papers on <u><a href="https://scholar.google.com/citations?
   <b>Yixuan Li</b>, Charalampos Stasinakis, Wee Meng Yeo. &ldquo;A Comprehensive Analysis for P2P Lending Credit Risk Assessment on Imbalanced Data and Feature Selection.&rdquo; SSRN 2023.<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4528544">[PDF]</a>
   <li >
   <b>Yixuan Li</b>, Charalampos Stasinakis, Wee Meng Yeo. &ldquo;A hybrid XGBoost-MLP model for credit risk assessment on digital supply chain finance.&rdquo; Forecasting 2022.<a href="https://www.mdpi.com/2571-9394/4/1/11">[PDF]</a>
+
+
 
 Teaching
 ------
