@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yixuan Li"
   avatar           : "profile.png"
-  bio              : "PhD Candidate at UofG"
-  location         : "Glasgow, UK"
+  bio              : 
+  location         : "Singapore"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=BRtf_xIAAAAJ&hl=en"
-  email            : "yixuan.li@glasgow.ac.uk"
+  email            : "yixuanli9602@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
