@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a 4th-year PhD student at the FinTech Team within the [Adam Smith Business School](https://www.gla.ac.uk/schools/business/), [University of Glasgow](https://www.gla.ac.uk/), supervised by Prof. [Charalampos Stasinakis](https://www.stasinakis.net/) and Dr.  [Wee Meng Yeo](https://www.gla.ac.uk/schools/business/staff/weemengyeo/).
-My recent research interest is mainly about **Risk Management in Banking, P2P and DeFi**. In particular, I mainly focus on three things:
+I am PhD at the FinTech Team within the [Adam Smith Business School](https://www.gla.ac.uk/schools/business/), [University of Glasgow](https://www.gla.ac.uk/).
+My research focuses on Financial technology, risk management, banking systems, and AI-driven financial agents, with a focus on financial stability and automated decision-making. In particular, I mainly focus on three things:
 - **Machine Learning in Finance**: Feature Selection, Imbalanced Data Issue, Explainability,
 - **Credit Risk Management**: Digital Supply Chain Finance (DSCF), P2P Lending, 
-- **Liquidity Risk Management**: DeFi Lending Protocol.
+- **Agentic FinTech**: AI financial agents, automated risk management, and trustworthy AI in finance.
 
 <!-- - **multi-modal**: adopting encoders for extracting the multimodal feature representations from both the system's recommendations and the users' feedback,
 - **dialog management**: specialising state trackers for tracking/estimating the users' preferences over time and dialog/recommendation policies with reinforcement learning,
@@ -21,8 +21,8 @@ My recent research interest is mainly about **Risk Management in Banking, P2P an
 
 Education
 ------
-[2019-now]  [University of Glasgow](https://www.gla.ac.uk/) (UofG, QS Top 100), Glasgow, UK
-- PhD in Finance (Research), expected to graduate before 09/2023
+[2019-2024]  [University of Glasgow](https://www.gla.ac.uk/) (UofG, QS Top 100), Glasgow, UK
+- PhD in Finance (Research)
 
 [2018-2019] [University of Glasgow](https://www.gla.ac.uk/) (UofG, QS Top 100), Glasgow, UK
 - MSc in International Banking and Finance
