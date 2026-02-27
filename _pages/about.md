@@ -34,8 +34,6 @@ Education
 
 Publications
 ------
-You can also find my papers on <u><a href="https://scholar.google.com/citations?user=BRtf_xIAAAAJ&hl=en">my Google Scholar profile</a>.</u>
-
   <li >
   <b>Yixuan Li</b>, Yaxiong Wu. &ldquo;Agentic FinTech: A Comprehensive Survey on AI Agents in Finance in the Era of LLMs.&rdquo; SSRN 2026.<a href="https://www.tandfonline.com/doi/full/10.1080/1351847X.2025.2468481">[PDF]</a>
   <li >
@@ -47,6 +45,7 @@ You can also find my papers on <u><a href="https://scholar.google.com/citations?
   <li >
   <b>Yixuan Li</b>, Charalampos Stasinakis, Wee Meng Yeo. &ldquo;A hybrid XGBoost-MLP model for credit risk assessment on digital supply chain finance.&rdquo; Forecasting 2022.<a href="https://www.mdpi.com/2571-9394/4/1/11">[PDF]</a>
 
+You can also find my papers on <u><a href="https://scholar.google.com/citations?user=BRtf_xIAAAAJ&hl=en">my Google Scholar profile</a>.</u>
 
 
 Teaching
