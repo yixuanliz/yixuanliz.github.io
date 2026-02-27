@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am PhD at the FinTech Team within the [Adam Smith Business School](https://www.gla.ac.uk/schools/business/), [University of Glasgow](https://www.gla.ac.uk/).
-My research focuses on Financial technology, risk management, banking systems, and AI-driven financial agents, with a focus on financial stability and automated decision-making. In particular, I mainly focus on three things:
+Yixuan Li received her PhD from the FinTech Team within the [Adam Smith Business School](https://www.gla.ac.uk/schools/business/), [University of Glasgow](https://www.gla.ac.uk/), supervised by Prof. Charalampos Stasinakis and Dr. Wee Meng Yeo.
+Her doctoral research focuses on Financial technology, risk management, banking systems, and their implications for financial stability and market design. Her current research interests primarily lie in the following areas:
 - **Machine Learning in Finance**: Feature Selection, Imbalanced Data Issue, Explainability,
 - **Credit Risk Management**: Digital Supply Chain Finance (DSCF), P2P Lending, 
 - **Agentic FinTech**: AI financial agents, automated risk management, and trustworthy AI in finance.
